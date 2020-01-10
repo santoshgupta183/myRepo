@@ -3,7 +3,7 @@
 	"per_page": 6,
 	"total": 12,
 	"total_pages": 2,
-	"name":"santosh"
+	"name":"santosh",
 	"data" : [{
 			"id": 1,
 			"email": "george.bluth@reqres.in",
