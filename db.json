@@ -4,7 +4,7 @@
 	"total": 12,
 	"total_pages": 2,
 	"name":"santosh"
-	"data": [{
+	"data" : [{
 			"id": 1,
 			"email": "george.bluth@reqres.in",
 			"first_name": "George",
