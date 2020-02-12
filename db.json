@@ -1,5 +1,4 @@
-{
-	"data": [{
+[{
 		"id": 1,
 		"email": "george.bluth@reqres.in",
 		"first_name": "George",
@@ -74,4 +73,3 @@
 	"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
 	}
  ]
-}
